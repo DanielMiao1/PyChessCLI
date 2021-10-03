@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+main.sh
+.replit
+.bash_aliases
+poetry.lock
+pyproject.toml
+.breakpoints
+.upm
